@@ -14,7 +14,7 @@
 
 📫 Let's connect:
 
-rruizveg@gmail.com • [LinkedIn](https://www.linkedin.com/in/ruben-vega-237791295/) • [GitHub](https://github.com/vegalastname) • +52 662 466 2225 • Hermosillo, Mexico
+rruizveg@outlook.com • rruizveg@gmail.com • [LinkedIn](https://www.linkedin.com/in/ruben-vega-237791295/) • [GitHub](https://github.com/vegalastname) • +52 662 466 2225 • Hermosillo, Mexico
 
 📆 Last updated: August 10, 2025
 
