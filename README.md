@@ -50,11 +50,5 @@ Certifications: [![GitHub Foundations](https://img.shields.io/badge/GitHub-Found
 
 Building efficient, secure, and creative tech solutions, one project at a time 🚀
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vegalastname&show_icons=true&theme=radical)
-
 ### 🗣️ Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vegalastname&layout=compact&theme=radical)
-
-### 🔥 Contribution Streak
-![Streak Stats](https://streak-stats.demolab.com/?user=vegalastname&theme=radical)
